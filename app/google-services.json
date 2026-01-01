@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "171656702510",
+    "project_id": "quick-brew-88e76",
+    "storage_bucket": "quick-brew-88e76.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171656702510:android:4ba3a3551302339f6d8dbf",
+        "android_client_info": {
+          "package_name": "com.example.quickbrew"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByNHPhBITxMvklO-mR78ddExE8CpIl6GM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
